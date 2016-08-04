@@ -1,0 +1,36 @@
+_repo: The-New-Book-of-Martyrs_4325
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Simmonds, Florence
+    gutenberg_agent_id: '1446'
+    url: http://www.gutenberg.org/2009/agents/1446
+creator:
+  author:
+    agent_name: Duhamel, Georges
+    aliases:
+    - Thevenin, Denis
+    - Thévenin, Denis
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '1445'
+    url: http://www.gutenberg.org/2009/agents/1445
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Duhamel
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Hospitals, charities, etc.'
+- GITenberg
+tableOfContents: Throughout our land -- The story of Carré and Lerondeau -- Memories
+  of the martyrs -- The death of Mercier -- Verdun -- The sacrifice -- The third symphony
+  -- Grace -- Nights in Artois.
+title: The New Book of Martyrs
+url: http://www.gutenberg.org/ebooks/4325
