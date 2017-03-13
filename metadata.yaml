@@ -1,10 +1,13 @@
 _repo: The-New-Book-of-Martyrs_4325
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Simmonds, Florence
     gutenberg_agent_id: '1446'
     url: http://www.gutenberg.org/2009/agents/1446
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Duhamel, Georges
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1445
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Duhamel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4325#The-New-Book-of-Martyrs
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
